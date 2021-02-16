@@ -1,1 +1,1 @@
-# varsitycalculus
+# Varsity Calculus
